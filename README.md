@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&&animation=blink)
 
 
-<img src='images/토끼.jpg' width=200 heght=200> </img>
+<img src='images/노트북.jpg' width=400 heght=300> </img>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ramleeramlee&show_icons=true&theme=tokyonight
 )](https://github.com/ramleeramlee)
